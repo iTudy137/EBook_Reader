@@ -9,7 +9,7 @@
 
 # Block Diagram
 
-![OpenBook Block Diagram](./blockdiagram.png)
+![OpenBook Block Diagram](blockdiagram.png)
 
 ---
 
